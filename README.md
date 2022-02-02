@@ -14,6 +14,8 @@
 <ul>
 <li> This application is the traditional game Tic-tac-toe. </li>
 <li> The game is for 2 players</li>
+<li> Each player takes his turn to play </li>
+<li> It's not allowed to tick on the same cell twice or tick on the other player's cell. </li>
 <li> The game end when 1 in 2 players wins or both draw</li>
 </ul>
 </pre>
