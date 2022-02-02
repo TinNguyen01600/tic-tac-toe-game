@@ -19,3 +19,12 @@
 <li> The game end when 1 in 2 players wins or both draw</li>
 </ul>
 </pre>
+
+<h2># Installation instructions </h2>
+<ol>
+<li>Download the source code of the application</li>
+<li>Create a folder name <em>Tic-tac-toe game</em></li>
+<li>Copy the ZIP file, whose name is tic-tac-toe-game-master.zip, to the <em>Tic-tac-toe game</em> made previously</li>
+<li>Extract the ZIP file</li>
+<li>You should see there are 6 files in total</li>
+</ol>
