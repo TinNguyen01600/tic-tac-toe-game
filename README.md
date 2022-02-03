@@ -23,8 +23,20 @@
 <h2># Installation instructions </h2>
 <ol>
 <li>Download the source code of the application</li>
-<li>Create a folder name <em>Tic-tac-toe game</em></li>
-<li>Copy the ZIP file, whose name is tic-tac-toe-game-master.zip, to the <em>Tic-tac-toe game</em> made previously</li>
+<li>Create a folder name <em>Tic-tac-toe</em></li>
+<li>Copy the ZIP file, whose name is tic-tac-toe-game-master.zip, to the <em>Tic-tac-toe</em> made previously</li>
 <li>Extract the ZIP file</li>
 <li>You should see there are 6 files in total</li>
+</ol>
+
+<h2># Operation instructions</h2>
+3rd party library needed: stdio.h; windows.h; stdbool.h; math.h; stdlib.h; string.h; conio.h
+<ol>
+<li>Open command window cmd</li>
+<li>Go to the <em>Tic-tac-toe</em> file, using command line <em>cd Tic-tac-toe</em>.</li>
+<li>List all files in this folder, using command line <em>ls -l</em>. (There should be 6 files including 2 .c files, 1 .h file, 
+1 hidden file .gitignore, 1 makefile and 1 .md file)</li>
+<li>Compile all .c and .h files for execution using command line <em>gcc *.c *.h -o Project1 -lm -I.</em></li>
+<li>A new .exe file is made.</li>
+<li>Execute the applicaiton, using command line <em>Project1.exe</em>.</li>
 </ol>
